@@ -121,7 +121,7 @@
   </div>
   <div class="member">
     <a href="kimnguyen.html" title="Lữ Ngọc Kim Nguyên">
-      <img src="kimnguyen-icon.jpg" alt="Kim Nguyên">
+      <img src="KimNguyen.jpg" alt="Kim Nguyên">
     </a>
     <p>Lữ Ngọc Kim Nguyên</p>
   </div>
