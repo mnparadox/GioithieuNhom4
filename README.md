@@ -1,87 +1,57 @@
+<!DOCTYPE html>
 <html lang="en">
+<head>
   <meta charset="UTF-8">
-  <title>Nhóm 4 - Trang Web Chính Thức</title>
+  <title>Nhóm 4 - Trang Web Chính</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      line-height: 1.6;
     }
-    header {
+    .banner {
       text-align: center;
-      background-color: #4CAF50;
-      padding: 20px;
-      color: white;
+      margin-bottom: 20px;
     }
     .banner img {
       width: 100%;
-      height: auto;
+      max-height: 300px;
+      object-fit: cover;
     }
     .nav-icons {
-      text-align: center;
-      margin: 20px 0;
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+      margin-bottom: 20px;
     }
-    .nav-icons a {
-      margin: 0 10px;
-      text-decoration: none;
-      display: inline-block;
+    .icon {
       text-align: center;
+    }
+    .icon img {
       width: 80px;
       height: 80px;
-      background-color: #f2f2f2;
       border: 2px solid #4CAF50;
       border-radius: 50%;
-      overflow: hidden;
       transition: transform 0.3s, background-color 0.3s;
     }
-    .nav-icons a:hover {
+    .icon img:hover {
       transform: scale(1.1);
       background-color: #4CAF50;
     }
-    .nav-icons img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-    }
-    section {
-      padding: 20px;
-      margin: 20px;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-      background-color: #f9f9f9;
-    }
-    .donate-form {
-      width: 50%;
-      margin: 20px auto;
-      padding: 20px;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-      background-color: #f9f9f9;
-    }
-    .donate-form input, .donate-form button {
-      width: calc(100% - 22px);
-      padding: 10px;
-      margin-bottom: 15px;
-      border: 1px solid #ccc;
-      border-radius: 4px;
-    }
-    .donate-form button {
-      background-color: #4CAF50;
-      color: white;
-      border: none;
-      cursor: pointer;
-    }
-    .donate-form button:hover {
-      background-color: #45a049;
+    .icon p {
+      margin-top: 10px;
+      font-size: 14px;
+      font-weight: bold;
+      color: #333;
     }
   </style>
+</head>
 <body>
 
-<header>
-  <h1>CHÀO MỪNG ĐẾN VỚI NHÓM 4</h1>
-</header>
+<!-- Banner -->
+<div class="banner">
+  <img src="banner.jpg" alt="Banner của Nhóm 4">
+</div>
 
+<!-- Navigation Icons -->
 <div class="nav-icons">
   <div class="icon">
     <a href="ngocngan.html" title="Phạm Ngọc Ngân">
@@ -107,6 +77,9 @@
     </a>
     <p>Nguyễn Thành Hiếu</p>
   </div>
+</div>
+
+
 
 <section>
   <h2>Giới thiệu về Nhóm 4</h2>
