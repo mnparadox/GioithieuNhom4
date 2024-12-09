@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <meta charset="UTF-8">
 <title>Nhóm 4 - Trang Web Chính Thức</title>
@@ -109,19 +108,19 @@
 
 <div class="nav-icons">
   <div class="member">
-    <a href="ngocngan.html" title="Phạm Ngọc Ngân">
+    <a href="https://mnparadox.github.io/NgocNgannhom4/" title="Phạm Ngọc Ngân">
       <img src="NgocNgan.jpg" alt="Ngọc Ngân">
     </a>
     <p>Phạm Ngọc Ngân</p>
   </div>
   <div class="member">
-    <a href="kimnguyen.html" title="Lữ Ngọc Kim Nguyên">
+    <a href="https://phamngocngan527.github.io/kimnguyen.github.io/" title="Lữ Ngọc Kim Nguyên">
       <img src="KimNguyen.jpg" alt="Kim Nguyên">
     </a>
     <p>Lữ Ngọc Kim Nguyên</p>
   </div>
   <div class="member">
-    <a href="mynhan.html" title="Ngô Mỹ Nhàn">
+    <a href="https://mnparadox.github.io/MyNhanNgonhom4/" title="Ngô Mỹ Nhàn">
       <img src="MyNhan.jpg" alt="Mỹ Nhàn">
     </a>
     <p>Ngô Mỹ Nhàn</p>
