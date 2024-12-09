@@ -1,85 +1,104 @@
-<!DOCTYPE html>
 <html lang="en">
-<head>
   <meta charset="UTF-8">
-  <title>Nhóm 4 - Trang Web Chính</title>
+  <title>Nhóm 4 - Trang Web Chính Thức</title>
   <style>
     body {
       font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
     }
-    .banner {
+    header {
       text-align: center;
-      margin-bottom: 20px;
+      background-color: #4CAF50;
+      padding: 20px;
+      color: white;
     }
     .banner img {
       width: 100%;
-      max-height: 300px;
-      object-fit: cover;
+      height: auto;
     }
     .nav-icons {
-      display: flex;
-      justify-content: center;
-      gap: 30px;
-      margin-bottom: 20px;
-    }
-    .icon {
       text-align: center;
+      margin: 20px 0;
     }
-    .icon img {
+    .nav-icons a {
+      margin: 0 10px;
+      text-decoration: none;
+      display: inline-block;
+      text-align: center;
       width: 80px;
       height: 80px;
+      background-color: #f2f2f2;
       border: 2px solid #4CAF50;
       border-radius: 50%;
+      overflow: hidden;
       transition: transform 0.3s, background-color 0.3s;
     }
-    .icon img:hover {
+    .nav-icons a:hover {
       transform: scale(1.1);
       background-color: #4CAF50;
     }
-    .icon p {
-      margin-top: 10px;
-      font-size: 14px;
-      font-weight: bold;
-      color: #333;
+    .nav-icons img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    section {
+      padding: 20px;
+      margin: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      background-color: #f9f9f9;
+    }
+    .donate-form {
+      width: 50%;
+      margin: 20px auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      background-color: #f9f9f9;
+    }
+    .donate-form input, .donate-form button {
+      width: calc(100% - 22px);
+      padding: 10px;
+      margin-bottom: 15px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    .donate-form button {
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    .donate-form button:hover {
+      background-color: #45a049;
     }
   </style>
-</head>
 <body>
 
-<!-- Banner -->
-<div class="banner">
-  <img src="banner.jpg" alt="Banner của Nhóm 4">
-</div>
+<header>
+  <div class="banner">
+    <img src="banner.jpg" alt="Nhóm 4 Banner">
+  </div>
+  <h1>CHÀO MỪNG ĐẾN VỚI NHÓM 4</h1>
+</header>
 
-<!-- Navigation Icons -->
 <div class="nav-icons">
-  <div class="icon">
-    <a href="ngocngan.html" title="Phạm Ngọc Ngân">
-      <img src="ngocngan-icon.jpg" alt="Ngọc Ngân">
-    </a>
-    <p>Phạm Ngọc Ngân</p>
-  </div>
-  <div class="icon">
-    <a href="kimnguyen.html" title="Lữ Ngọc Kim Nguyên">
-      <img src="kimnguyen-icon.jpg" alt="Kim Nguyên">
-    </a>
-    <p>Lữ Ngọc Kim Nguyên</p>
-  </div>
-  <div class="icon">
-    <a href="mynhan.html" title="Ngô Mỹ Nhàn">
-      <img src="mynhan-icon.jpg" alt="Mỹ Nhàn">
-    </a>
-    <p>Ngô Mỹ Nhàn</p>
-  </div>
-  <div class="icon">
-    <a href="thanhhieu.html" title="Nguyễn Thành Hiếu">
-      <img src="thanhhieu-icon.jpg" alt="Thành Hiếu">
-    </a>
-    <p>Nguyễn Thành Hiếu</p>
-  </div>
+  <a href="ngocngan.html" title="Phạm Ngọc Ngân">
+    <img src="ngocngan-icon.jpg" alt="Ngọc Ngân">
+  </a>
+  <a href="kimnguyen.html" title="Lữ Ngọc Kim Nguyên">
+    <img src="kimnguyen-icon.jpg" alt="Kim Nguyên">
+  </a>
+  <a href="mynhan.html" title="Ngô Mỹ Nhàn">
+    <img src="mynhan-icon.jpg" alt="Mỹ Nhàn">
+  </a>
+  <a href="thanhhieu.html" title="Nguyễn Thành Hiếu">
+    <img src="thanhhieu-icon.jpg" alt="Thành Hiếu">
+  </a>
 </div>
-
-
 
 <section>
   <h2>Giới thiệu về Nhóm 4</h2>
@@ -104,14 +123,11 @@
   <form class="donate-form">
     <label for="name">Họ và Tên:</label>
     <input type="text" id="name" name="name" placeholder="Nhập tên của bạn" required>
-
-  <label for="email">Email:</label>
+    <label for="email">Email:</label>
     <input type="email" id="email" name="email" placeholder="Nhập email của bạn" required>
-
-  <label for="amount">Số tiền (VNĐ):</label>
+    <label for="amount">Số tiền (VNĐ):</label>
     <input type="number" id="amount" name="amount" placeholder="Nhập số tiền" min="1000" required>
-
-  <button type="submit">Donate ngay</button>
+    <button type="submit">Donate ngay</button>
   </form>
   <p align="center">Số tài khoản nhận tiền: <b>0918167809</b> - BIDV</p>
 </section>
