@@ -84,7 +84,7 @@
 
 <div class="nav-icons">
   <a href="ngocngan.html" title="Phạm Ngọc Ngân">
-    <img src="ngocngan-icon.jpg" alt="Ngọc Ngân">
+    <img src="NgocNgan.jpg" alt="Ngọc Ngân">
   </a>
   <a href="kimnguyen.html" title="Lữ Ngọc Kim Nguyên">
     <img src="KimNguyen.jpg" alt="Kim Nguyên">
