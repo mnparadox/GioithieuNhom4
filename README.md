@@ -127,7 +127,7 @@
   </div>
   <div class="member">
     <a href="mynhan.html" title="Ngô Mỹ Nhàn">
-      <img src="mynhan-icon.jpg" alt="Mỹ Nhàn">
+      <img src="MyNhan.jpg" alt="Mỹ Nhàn">
     </a>
     <p>Ngô Mỹ Nhàn</p>
   </div>
