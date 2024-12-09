@@ -104,7 +104,7 @@
 
 <header>
   <div class="banner">
-    <img src="Ảnh màn hình 2024-12-09 lúc 22.03.53.png" alt="Nhóm 4 Banner">
+    <img src="Thiết kế chưa có tên.jpg" alt="Nhóm 4 Banner">
   </div>
   <h1>CHÀO MỪNG ĐẾN VỚI NHÓM 4</h1>
 </header>
