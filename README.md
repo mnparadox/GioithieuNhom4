@@ -17,11 +17,6 @@
     color: white;
   }
 
-  .banner img {
-    width: 100%;
-    height: auto;
-  }
-
   .nav-icons {
     display: flex;
     justify-content: center;
