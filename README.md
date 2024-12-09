@@ -86,15 +86,19 @@
   <a href="ngocngan.html" title="Phạm Ngọc Ngân">
     <img src="NgocNgan.jpg" alt="Ngọc Ngân">
   </a>
+    <p>Phạm Ngọc Ngân</p>
   <a href="kimnguyen.html" title="Lữ Ngọc Kim Nguyên">
     <img src="KimNguyen.jpg" alt="Kim Nguyên">
   </a>
+    <p>Lữ Ngọc Kim Nguyên</p>
   <a href="mynhan.html" title="Ngô Mỹ Nhàn">
     <img src="MyNhan.jpg" alt="Mỹ Nhàn">
   </a>
+    <p>Ngô Mỹ Nhàn</p>
   <a href="thanhhieu.html" title="Nguyễn Thành Hiếu">
     <img src="ThanHieu.jpg" alt="Thành Hiếu">
   </a>
+    <p>Nguyễn Thành Hiếu</p>
 </div>
 
 <section>
