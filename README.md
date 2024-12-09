@@ -107,7 +107,7 @@
 
 <header>
   <h1>CHÀO MỪNG ĐẾN VỚI NHÓM 4</h1>
-   <img src="banner.jpg" alt="Nhóm 4 Banner">
+   <img src="Bannerreal.jpg" alt="Nhóm 4 Banner">
 </header>
 
 <div class="nav-icons">
