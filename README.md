@@ -18,11 +18,8 @@
   }
 
   .banner img {
-    width: 100%; 
-    max-width: 400px;
+    width: 100%;
     height: auto;
-    margin: 0 auto;
-    display: block;
   }
 
   .nav-icons {
