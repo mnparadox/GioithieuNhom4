@@ -79,7 +79,6 @@
 <body>
 
 <header>
-  </div>
   <h1>CHÀO MỪNG ĐẾN VỚI NHÓM 4</h1>
 </header>
 
