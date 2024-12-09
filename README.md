@@ -133,7 +133,7 @@
   </div>
   <div class="member">
     <a href="thanhhieu.html" title="Nguyễn Thành Hiếu">
-      <img src="thanhhieu-icon.jpg" alt="Thành Hiếu">
+      <img src="ThanHieu.jpg" alt="Thành Hiếu">
     </a>
     <p>Nguyễn Thành Hiếu</p>
   </div>
