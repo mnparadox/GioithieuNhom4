@@ -93,7 +93,7 @@
     <img src="MyNhan.jpg" alt="Mỹ Nhàn">
   </a>
   <a href="thanhhieu.html" title="Nguyễn Thành Hiếu">
-    <img src="thanhhieu-icon.jpg" alt="Thành Hiếu">
+    <img src="ThanHieu.jpg" alt="Thành Hiếu">
   </a>
 </div>
 
