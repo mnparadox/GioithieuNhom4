@@ -106,10 +106,8 @@
 <body>
 
 <header>
-  <div class="banner">
-    <img src="Thiết kế chưa có tên.jpg" alt="Nhóm 4 Banner">
-  </div>
   <h1>CHÀO MỪNG ĐẾN VỚI NHÓM 4</h1>
+   <img src="banner.jpg" alt="Nhóm 4 Banner">
 </header>
 
 <div class="nav-icons">
