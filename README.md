@@ -18,8 +18,8 @@
   }
 
   .banner img {
-    width: 100%; /* Chiều ngang nhỏ hơn */
-    max-width: 400px; /* Giới hạn chiều rộng tối đa */
+    width: 100%; 
+    max-width: 400px;
     height: auto;
     margin: 0 auto;
     display: block;
