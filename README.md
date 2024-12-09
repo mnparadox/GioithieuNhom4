@@ -90,7 +90,7 @@
     <img src="KimNguyen.jpg" alt="Kim Nguyên">
   </a>
   <a href="mynhan.html" title="Ngô Mỹ Nhàn">
-    <img src="mynhan-icon.jpg" alt="Mỹ Nhàn">
+    <img src="MyNhan.jpg" alt="Mỹ Nhàn">
   </a>
   <a href="thanhhieu.html" title="Nguyễn Thành Hiếu">
     <img src="thanhhieu-icon.jpg" alt="Thành Hiếu">
