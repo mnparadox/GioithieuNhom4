@@ -115,7 +115,7 @@
 <div class="nav-icons">
   <div class="member">
     <a href="ngocngan.html" title="Phạm Ngọc Ngân">
-      <img src="ngocngan-icon.jpg" alt="Ngọc Ngân">
+      <img src="NgocNgan.jpg" alt="Ngọc Ngân">
     </a>
     <p>Phạm Ngọc Ngân</p>
   </div>
