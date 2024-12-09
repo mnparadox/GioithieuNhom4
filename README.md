@@ -87,7 +87,7 @@
     <img src="ngocngan-icon.jpg" alt="Ngọc Ngân">
   </a>
   <a href="kimnguyen.html" title="Lữ Ngọc Kim Nguyên">
-    <img src="kimnguyen-icon.jpg" alt="Kim Nguyên">
+    <img src="KimNguyen.jpg" alt="Kim Nguyên">
   </a>
   <a href="mynhan.html" title="Ngô Mỹ Nhàn">
     <img src="mynhan-icon.jpg" alt="Mỹ Nhàn">
