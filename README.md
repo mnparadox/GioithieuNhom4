@@ -18,8 +18,11 @@
   }
 
   .banner img {
-    width: 100%;
+    width: 100%; /* Chiều ngang nhỏ hơn */
+    max-width: 400px; /* Giới hạn chiều rộng tối đa */
     height: auto;
+    margin: 0 auto;
+    display: block;
   }
 
   .nav-icons {
