@@ -17,6 +17,14 @@
     color: white;
   }
 
+   header img {
+    width: 80%; /* Chiều ngang nhỏ hơn */
+    max-width: 800px; /* Giới hạn chiều rộng tối đa */
+    height: auto;
+    margin: 0 auto;
+    display: block;
+  }
+
   .nav-icons {
     display: flex;
     justify-content: center;
