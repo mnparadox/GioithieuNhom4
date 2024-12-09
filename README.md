@@ -122,13 +122,13 @@
     <label for="name">Họ và Tên:</label>
     <input type="text" id="name" name="name" placeholder="Nhập tên của bạn" required>
 
-    <label for="email">Email:</label>
+  <label for="email">Email:</label>
     <input type="email" id="email" name="email" placeholder="Nhập email của bạn" required>
 
-    <label for="amount">Số tiền (VNĐ):</label>
+  <label for="amount">Số tiền (VNĐ):</label>
     <input type="number" id="amount" name="amount" placeholder="Nhập số tiền" min="1000" required>
 
-    <button type="submit">Donate ngay</button>
+  <button type="submit">Donate ngay</button>
   </form>
   <p align="center">Số tài khoản nhận tiền: <b>0918167809</b> - BIDV</p>
 </section>
