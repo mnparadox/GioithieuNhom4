@@ -8,6 +8,10 @@
     padding: 0;
     line-height: 1.6;
   }
+  
+  h1 {
+        display: none;
+    }
 
   header {
     text-align: center;
@@ -101,7 +105,6 @@
 </style>
 
 <body>
-
 <header>
   <h1>CHÀO MỪNG ĐẾN VỚI NHÓM 4</h1>
    <img src="Bannerreal.jpg" alt="Nhóm 4 Banner">
