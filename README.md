@@ -1,6 +1,5 @@
 <html lang="en">
 <meta charset="UTF-8">
-<title>Nhóm 4 - Trang Web Chính Thức</title>
 <style>
   body {
     font-family: Arial, sans-serif;
