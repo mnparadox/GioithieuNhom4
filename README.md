@@ -1,5 +1,6 @@
 <html lang="en">
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
   body {
     font-family: Arial, sans-serif;
@@ -99,12 +100,7 @@
   }
 </style>
 
-<head>
-    <title>My Custom Website</title>
-</head>
-
 <body>
-    <h1>Welcome to my website!</h1>
 
 <header>
   <h1>CHÀO MỪNG ĐẾN VỚI NHÓM 4</h1>
