@@ -12,6 +12,30 @@
   h1 {
         display: none;
     }
+    .header {
+      background-color: #4CAF50;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      font-size: 24px;
+      position: relative;
+    }
+    .marquee-container {
+      overflow: hidden;
+      white-space: nowrap;
+      position: relative;
+    }
+    .marquee-text {
+      display: inline-block;
+      animation: marquee 10s linear infinite;
+    }
+    @keyframes marquee {
+      0% {
+        transform: translateX(100%);
+      }
+      100% {
+        transform: translateX(-100%);
+      }
 
   header {
     text-align: center;
@@ -105,6 +129,9 @@
 </style>
 
 <body>
+<div class="header">
+    <div class="marquee-container">
+      <span class="marquee-text">Chào mừng đến với Nhóm 4! 🚀 Cùng học tập và phát triển!</span>
 <header>
   <h1>CHÀO MỪNG ĐẾN VỚI NHÓM 4</h1>
    <img src="Bannerreal.jpg" alt="Nhóm 4 Banner">
