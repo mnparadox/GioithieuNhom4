@@ -130,7 +130,7 @@
     <p>Ngô Mỹ Nhàn</p>
   </div>
   <div class="member">
-    <a href="thanhhieu.html" title="Nguyễn Thành Hiếu">
+    <a href="https://phamngocngan527.github.io/th-nhhieu.github.io/" title="Nguyễn Thành Hiếu">
       <img src="ThanHieu.jpg" alt="Thành Hiếu">
     </a>
     <p>Nguyễn Thành Hiếu</p>
