@@ -9,10 +9,6 @@
     padding: 0;
     line-height: 1.6;
   }
-
-  margin: 0;
-  padding: 0;
-    }
     .scrolling-text {
       width: 100%;
       background-color: #333;
@@ -140,9 +136,6 @@
   <div style="margin-top: 60px;">
     <p>Nhóm 4 chào cả nhà</p>
   </div>
-<div class="header">
-    <div class="marquee-container">
-      <span class="marquee-text">Chào mừng đến với Nhóm 4! 🚀 Cùng học tập và phát triển!</span>
 <header>
   <h1>CHÀO MỪNG ĐẾN VỚI NHÓM 4</h1>
    <img src="Bannerreal.jpg" alt="Nhóm 4 Banner">
