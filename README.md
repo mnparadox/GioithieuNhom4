@@ -9,29 +9,6 @@
     padding: 0;
     line-height: 1.6;
   }
-    .scrolling-text {
-      width: 100%;
-      background-color: #333;
-      color: white;
-      font-size: 20px;
-      padding: 10px 0;
-      overflow: hidden;
-      white-space: nowrap;
-      position: fixed;
-      top: 0;
-      z-index: 1000;
-    }
-    .scrolling-text span {
-      display: inline-block;
-      animation: scroll 10s linear infinite;
-    }
-    @keyframes scroll {
-      0% {
-        transform: translateX(100%);
-      }
-      100% {
-        transform: translateX(-100%);
-      }
   
   h1 {
         display: none;
@@ -129,13 +106,6 @@
 </style>
 
 <body>
- <div class="scrolling-text">
-    <span>Chào mừng đến với nhóm 4! Ghé thăm website của nhóm để xem được nhiều thông tin hơn nha! 🎉</span>
-  </div>
-
-  <div style="margin-top: 60px;">
-    <p>Nhóm 4 chào cả nhà</p>
-  </div>
 <header>
   <h1>CHÀO MỪNG ĐẾN VỚI NHÓM 4</h1>
    <img src="Bannerreal.jpg" alt="Nhóm 4 Banner">
