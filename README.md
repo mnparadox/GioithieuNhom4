@@ -109,14 +109,10 @@
 <header>
   <h1>CHÀO MỪNG ĐẾN VỚI NHÓM 4</h1>
    <img src="Bannerreal.jpg" alt="Nhóm 4 Banner">
+   <a href="https://www.canva.com/design/DAGRfqbIz3s/1i0B1bsmkjbutxw-tsa3jA/edit?zarsrc=411" title="Nhóm 4">
+   </a>
 </header>
   
-<div class="nav-icons">
-  <div class="member">
-    <a href="nhóm4.com" title="Nhóm 4">
-      <img src="Nhom4.jpg" alt="Nhóm 4">
-    </a>
-    <p>Phạm Ngọc Ngân</p>
   </div>
 <div class="nav-icons">
   <div class="member">
