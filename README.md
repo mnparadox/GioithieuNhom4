@@ -101,12 +101,12 @@
 
   .donate-form button:hover {
     background-color: #45a049;
-  }
+ }
   footer {
   background-color: #f2f2f2;
   padding: 20px;
   text-align: center;
-}
+ } 
 
 footer p {
   color: #666;
@@ -181,6 +181,7 @@ footer p {
   </form>
   <p align="center">Số tài khoản nhận tiền: <b>0918167809</b> - BIDV</p>
 </section>
+
 <footer>
   <div class="container">
     <div class="row">
