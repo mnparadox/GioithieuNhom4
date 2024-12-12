@@ -109,11 +109,9 @@
 <header>
   <h1>CHÀO MỪNG ĐẾN VỚI NHÓM 4</h1>
    <img src="Bannerreal.jpg" alt="Nhóm 4 Banner">
-   <a href="https://www.canva.com/design/DAGRfqbIz3s/1i0B1bsmkjbutxw-tsa3jA/edit?zarsrc=411" title="Nhóm 4">
-   </a>
+     <a href="https://www.canva.com/design/DAGRfqbIz3s/1i0B1bsmkjbutxw-tsa3jA/edit?zarsrc=411" title="Nhóm 4">
+     </a>
 </header>
-  
-  </div>
 <div class="nav-icons">
   <div class="member">
     <a href="https://mnparadox.github.io/NgocNgannhom4/" title="Phạm Ngọc Ngân">
