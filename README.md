@@ -1,7 +1,6 @@
 <html lang="en">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-  <title>Scrolling Text</title>
 <style>
   body {
     font-family: Arial, sans-serif;
@@ -109,8 +108,7 @@
 <header>
   <h1>CHÀO MỪNG ĐẾN VỚI NHÓM 4</h1>
    <img src="Bannerreal.jpg" alt="Nhóm 4 Banner">
-     <a href="https://www.canva.com/design/DAGRfqbIz3s/1i0B1bsmkjbutxw-tsa3jA/edit?zarsrc=411" title="Nhóm 4">
-     </a>
+  
 </header>
 <div class="nav-icons">
   <div class="member">
