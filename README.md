@@ -102,6 +102,16 @@
   .donate-form button:hover {
     background-color: #45a049;
   }
+  footer {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
+footer p {
+  color: #666;
+  font-size: 14px;
+}
 </style>
 
 <body>
@@ -171,6 +181,26 @@
   </form>
   <p align="center">Số tài khoản nhận tiền: <b>0918167809</b> - BIDV</p>
 </section>
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <h3>Website chính thức siêu đáng yêu của nhóm 4</h3>
+        <p>Địa chỉ: Phú Tân, TP.Bến Tre, Bến Tre</p>
+        <p>Điện thoại: 01918167809</p>
+      </div>
+      <div class="col">
+        <h3>Tìm đến nhóm 4 tại</h3>
+        <ul>
+          <li><a href="https://mnparadox.github.io/GioithieuNhom4/">Trang chủ</a></li>
+          <li><a href="https://www.canva.com/design/DAGRfqbIz3s/1i0B1bsmkjbutxw-tsa3jA/edit?zarsrc=411">Về chúng tôi</a></li>
+          <li><a href="#">Liên hệ</a></li>
+        </ul>
+      </div>
+    </div>
+    <p class="copyright">Copyright © 2024 Nhóm 4 (M.Nhan, N.Ngan, K.Nguyen, T.Hieu. All rights reserved.</p>
+  </div>
+</footer>
 
 </body>
 </html>
